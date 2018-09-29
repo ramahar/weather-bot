@@ -1,0 +1,8 @@
+#Environment Variable File
+.env
+
+#NodeJS Modules
+node_modules
+
+#README
+README.md

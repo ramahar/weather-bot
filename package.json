@@ -1,0 +1,17 @@
+{
+  "name": "weatherbot",
+  "version": "1.0.0",
+  "description": "Slack bot that reports the weather for a given city",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rayyan Mahar",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.16.0",
+    "dotenv": "^5.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
